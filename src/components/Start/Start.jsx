@@ -31,7 +31,7 @@ function Start() {
             
             <center><i>it's the first day of senior year all over again.</i></center><br />
 
-            use the menu at the bottom of the page to navigate around this website.
+            use the menu at the bottom of the page to navigate around this website. you said i never made you a playlist, so 'school radio' is a playlist just for you (and has nothing to do with the game).
             <br /><br />
             be curious and take notes. the experience is best on a computer. click on links and use google if you need. there's a really lovely surprise waiting for you at the end.
             
