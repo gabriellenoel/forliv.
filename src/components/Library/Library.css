@@ -1,0 +1,15 @@
+.library{
+    background-color: white;
+    border: black solid 3px;
+    border-radius: 10px;
+    padding-left: 5%;
+    width: 100%;
+}
+
+.study-hall{
+    padding: 10%;
+}
+
+.name-of-the-game{
+    width: 400px;
+}

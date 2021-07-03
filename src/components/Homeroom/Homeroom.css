@@ -1,0 +1,33 @@
+/* body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("classroom.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  } */
+
+  .homeroom{
+      background-color: white;
+      border: black solid 3px;
+      border-radius: 10px;
+      padding-left: 5%;
+      width: 100%;
+  }
+
+  .homeroom-hub{
+      padding: 10%;
+  }
+
+  .name-of-the-game{
+      width: 400px;
+  }
+
+.locker-combo-input{
+      text-align: right;
+  }
+  

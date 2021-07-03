@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+
+  .start{
+      background-color: white;
+      border: black solid 3px;
+      border-radius: 10px;
+      padding-left: 5%;
+      width: 100%;
+  }
+
+  .start-here{
+      padding: 10%;
+  }
+
+  .name-of-the-game{
+      width: 400px;
+  }
+  
