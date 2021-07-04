@@ -35,7 +35,7 @@ function Lab() {
           <Modal.Title>(2 Unread) - babyandbabyy@yahoo.com</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-        You want to check your <a href="http://mail.yahoo.com">Yahoo email</a> but wait... what was your password again? You haven't logged in all summer! After hitting 'Lost Password', you receive the following hint:
+        You want to check your <a href="http://mail.yahoo.com">Yahoo email</a> but wait... what was your password again? 
 <br /><br />
       <Alert variant="info">
       <b>Password:</b> Secret Word # 1 + Secret Word # 2 (no spaces, capitalization matters).
