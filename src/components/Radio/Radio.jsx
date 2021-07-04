@@ -27,7 +27,7 @@ import {
           <Container className="listen">
               <center><img src={dgb} alt="dgb" width="250px" /><br />
               <p style={{color: "#e5fd6b" }}>you're president of the radio club so you come here whenever you want.</p></center>
-              <iframe src="https://open.spotify.com/embed/playlist/63BjYkrMgfkCTNzecG45eX?theme=0" width="100%" height="250" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+              <iframe src="https://open.spotify.com/embed/playlist/63BjYkrMgfkCTNzecG45eX" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           </Container>
   
           <Modal show={show} onHide={handleClose}>
