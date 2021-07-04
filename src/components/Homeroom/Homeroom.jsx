@@ -57,7 +57,7 @@ function Homeroom() {
         <Button variant="info" onClick={handleShow}>go to your locker.</Button>
         </Col>
         <Col>
-        <Button variant="info" onClick={handleShow2}>talk to ms. rapinoe.</Button>
+        <Button variant="info" onClick={handleShow2}>talk to ms. zephra.</Button>
         </Col>
         </Row>
         </Container>
@@ -115,7 +115,7 @@ function Homeroom() {
             <center><iframe src="https://giphy.com/embed/fucCaa49DPTn4oONvT" width="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
         <br />Ms. Zephra was your homeroom teacher last year as well. She smiles warmly. "How are you and your girlfriend?"<br /><br />
 
-        "We're great," you say. The two of you have been dating since <b>2/16/2021</b>. You even set the date as your locker combination. Very high school of you.<br /><br />
+        "We're great," you say. The two of you have been dating since <b>2/16/2020</b>. You even set the date as your locker combination. Very high school of you.<br /><br />
 
 
         </Modal.Body>

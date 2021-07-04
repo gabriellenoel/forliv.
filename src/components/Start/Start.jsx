@@ -33,7 +33,7 @@ function Start() {
 
             use the menu at the bottom of the page to navigate around this website. you said i never made you a playlist, so 'school radio' is a playlist just for you (and has nothing to do with the game).
             <br /><br />
-            be curious and take notes. the experience is best on a computer. click on links and use google if you need. there's a really lovely surprise waiting for you at the end.
+            be curious and take notes. the experience is best on a computer. click on links and use google if you need. there's a really lovely surprise waiting for you at the end to celebrate the new chapter of life you're embarking on.
             
             </Modal.Body>
         <Modal.Footer>
