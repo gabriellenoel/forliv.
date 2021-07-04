@@ -25,7 +25,7 @@ function Lab() {
   return (
     <div className="lab">
         <Container className="lab-computer">
-        <center><img src={screen} style={{width: "45%" }} alt="computer" /><br />
+        <center><img src={screen} style={{width: "65%" }} alt="computer" /><br />
         <Button variant="danger" onClick={handleShow}>Check Your Email?</Button>
         </center>
         </Container>
