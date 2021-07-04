@@ -31,9 +31,9 @@ function Start() {
             
             <center><i>it's the first day of senior year all over again.</i></center><br />
 
-            use the menu at the bottom of the page to navigate around this website. you said i never made you a playlist, so 'school radio' is a playlist just for you (and has nothing to do with the game).
+            you said i never made you a playlist? so in celebration of the new chapter you're embarking on soon, i made you a playlist, got you a second surprise, and then i hid them both inside of this app escape room style.
             <br /><br />
-            be curious and take notes. the experience is best on a computer. click on links and use google if you need. there's a really lovely surprise waiting for you at the end to celebrate the new chapter of life you're embarking on.
+            be curious, take notes, click around. use google if you need.
             
             </Modal.Body>
         <Modal.Footer>
