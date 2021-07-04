@@ -27,7 +27,6 @@ import {
           <Container className="listen">
               <center><img src={dgb} alt="dgb" width="250px" /><br />
               <p style={{color: "#e5fd6b" }}>you're president of the radio club so you come here whenever you want.</p></center>
-              <p style={{color: "#d9318a" }}>it's decorated with your nickname and a playlist your girlfriend made you is already queued.</p>
               <iframe src="https://open.spotify.com/embed/playlist/63BjYkrMgfkCTNzecG45eX?theme=0" width="100%" height="250" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           </Container>
   
