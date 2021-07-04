@@ -57,7 +57,7 @@ function Homeroom() {
         <Button variant="info" onClick={handleShow}>go to your locker.</Button>
         </Col>
         <Col>
-        <Button variant="info" onClick={handleShow2}>talk to ms. rapinoe.</Button>
+        <Button variant="info" onClick={handleShow2}>talk to ms. zephra.</Button>
         </Col>
         </Row>
         </Container>
